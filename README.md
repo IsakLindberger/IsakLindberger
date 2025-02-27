@@ -1,4 +1,4 @@
-# Hi there! I'm Isak Lindberger
+# Hi there! I'm Isak Lindberger 🐔
 
 🚀 **AI Engineer | Machine Learning | Data Science**  
 📍 Stockholm, Sweden  
