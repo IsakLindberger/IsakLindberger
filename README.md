@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 I'm an AI and Machine Learning Engineer with a strong passion for solving complex problems using AI. With experience in data engineering, deep learning, and AI-driven automation, I love building smart and scalable solutions. I combine technical expertise with creative problem-solving to push the boundaries of what's possible.
 
-I have a background in AI and Machine Learning from IT-Högskolan, and professional experience working on AI-driven projects in various domains. My international experience has made me adaptable and eager to take on new challenges!
+I have a background in AI and Machine Learning, and professional experience working on AI-driven projects in various domains. My international experience has made me adaptable and eager to take on new challenges!
 
 ---
 
