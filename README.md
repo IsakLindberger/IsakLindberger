@@ -14,9 +14,11 @@ I have a background in AI and Machine Learning, and professional experience work
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **AI & Machine Learning:** PyTorch, Scikit-Learn, TensorFlow, CNNs, RAG, LangChain/LangGraph
+- **AI & Machine Learning:** PyTorch, Scikit-Learn, TensorFlow, CNNs, RAG, LangChain, LangGraph
 - **Data Engineering & Analysis:** Pandas, SQL, GCP, Matplotlib, Seaborn
 - **Development & Deployment:** Python, FastAPI, Django, Docker, Git/GitHub
+- **Programming Languages:** Python, C (fundamentals), JavaScript (fundamentals), TypeScript (fundamentals)
+- **IT Security & Networking:** Foundational knowledge in IT security, networking fundamentals, router technologies, basic security concepts
 - **Mathematics & Statistics:** Statistical Analysis, Linear Algebra
 
 ---
@@ -37,7 +39,7 @@ I have a background in AI and Machine Learning, and professional experience work
 ---
 
 ### 📫 Let's Connect!
-If you're interested in AI, data science, or collaborating on projects, feel free to reach out! Always happy to discuss AI innovations, open-source contributions, or tech in general.  
+If you're interested in AI, data science, data analys or collaborating on projects, feel free to reach out! Always happy to discuss AI innovations, open-source contributions, or tech in general.  
 
 🔥 **Let's build something amazing together!**
 
